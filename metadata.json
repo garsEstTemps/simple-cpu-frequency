@@ -1,0 +1,6 @@
+{
+    "last-edited": "1669283755",
+    "uuid": "simple-cpu-freq@garsEstTemps",
+    "name": "Simple CPU Frequency applet",
+    "description": "Display average frequency of all CPUs"
+}

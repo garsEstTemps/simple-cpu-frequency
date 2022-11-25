@@ -1,0 +1,22 @@
+{
+  "head": {
+      "type": "header",
+      "description": "General"
+  },
+  "update-time-interval": {
+      "type": "combobox",
+        "default": "5.0",
+        "options": {
+            "0.5": "0.5",
+            "1.0": "1.0",
+            "2.0": "2.0",
+            "3.0": "3.0",
+            "4.0": "4.0",
+            "5.0": "5.0",
+            "10.0": "10.0",
+            "20.0": "20.0"
+        },
+        "description": "Update frequency (seconds)",
+        "tooltip": "The amount of time (in seconds) between the updates."
+  }
+}
